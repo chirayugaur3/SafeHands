@@ -13,3 +13,4 @@ Add new feature - 429 - 2
 Fix layout issue - 424 - 1
 Code cleanup - 424 - 2
 Add new feature - 424 - 3
+Add error handling - 423 - 1
