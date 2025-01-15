@@ -14,3 +14,4 @@ Fix layout issue - 424 - 1
 Code cleanup - 424 - 2
 Add new feature - 424 - 3
 Add error handling - 423 - 1
+Minor fixes - 422 - 1
