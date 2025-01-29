@@ -26,3 +26,4 @@ Add new feature - 415 - 2
 Refactor logic - 413 - 1
 Fix bug in navigation - 411 - 1
 Update README - 411 - 2
+Minor fixes - 408 - 1
