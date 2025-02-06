@@ -35,3 +35,4 @@ Improve performance - 402 - 1
 Improve performance - 401 - 1
 Minor fixes - 401 - 2
 Add new feature - 401 - 3
+Fix bug in navigation - 400 - 1
