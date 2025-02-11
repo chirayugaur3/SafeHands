@@ -41,3 +41,4 @@ Refactor logic - 398 - 1
 Fix layout issue - 396 - 1
 Fix layout issue - 395 - 1
 Fix bug in navigation - 395 - 2
+Add new feature - 395 - 3
