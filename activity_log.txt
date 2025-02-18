@@ -52,3 +52,4 @@ Minor fixes - 389 - 1
 Refactor logic - 389 - 2
 Add new feature - 389 - 3
 Update README - 388 - 1
+Code cleanup - 388 - 2
