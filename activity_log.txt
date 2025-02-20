@@ -54,3 +54,4 @@ Add new feature - 389 - 3
 Update README - 388 - 1
 Code cleanup - 388 - 2
 Refactor logic - 386 - 1
+Add error handling - 386 - 2
