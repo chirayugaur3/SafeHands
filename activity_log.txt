@@ -56,3 +56,4 @@ Code cleanup - 388 - 2
 Refactor logic - 386 - 1
 Add error handling - 386 - 2
 Add error handling - 386 - 3
+Update README - 379 - 1
