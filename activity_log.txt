@@ -58,3 +58,4 @@ Add error handling - 386 - 2
 Add error handling - 386 - 3
 Update README - 379 - 1
 Update UI components - 379 - 2
+Update README - 377 - 1
