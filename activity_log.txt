@@ -62,3 +62,4 @@ Update README - 377 - 1
 Code cleanup - 377 - 2
 Add new feature - 377 - 3
 Update README - 375 - 1
+Refactor logic - 371 - 1
