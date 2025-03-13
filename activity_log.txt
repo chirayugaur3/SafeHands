@@ -64,3 +64,4 @@ Add new feature - 377 - 3
 Update README - 375 - 1
 Refactor logic - 371 - 1
 Code cleanup - 367 - 1
+Fix bug in navigation - 365 - 1
