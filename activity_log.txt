@@ -68,3 +68,4 @@ Fix bug in navigation - 365 - 1
 Code cleanup - 365 - 2
 Add error handling - 365 - 3
 Minor fixes - 364 - 1
+Add error handling - 364 - 2
