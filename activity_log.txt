@@ -72,3 +72,4 @@ Add error handling - 364 - 2
 Update README - 362 - 1
 Fix layout issue - 360 - 1
 Refactor logic - 360 - 2
+Update UI components - 360 - 3
