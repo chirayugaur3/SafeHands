@@ -75,3 +75,4 @@ Refactor logic - 360 - 2
 Update UI components - 360 - 3
 Fix layout issue - 359 - 1
 Code cleanup - 359 - 2
+Code cleanup - 359 - 3
