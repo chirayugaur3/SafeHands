@@ -73,3 +73,4 @@ Update README - 362 - 1
 Fix layout issue - 360 - 1
 Refactor logic - 360 - 2
 Update UI components - 360 - 3
+Fix layout issue - 359 - 1
