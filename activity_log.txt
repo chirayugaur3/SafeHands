@@ -76,3 +76,4 @@ Update UI components - 360 - 3
 Fix layout issue - 359 - 1
 Code cleanup - 359 - 2
 Code cleanup - 359 - 3
+Update README - 357 - 1
