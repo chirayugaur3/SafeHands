@@ -80,3 +80,4 @@ Update README - 357 - 1
 Add new feature - 354 - 1
 Fix layout issue - 354 - 2
 Fix bug in navigation - 354 - 3
+Update UI components - 351 - 1
