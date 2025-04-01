@@ -82,3 +82,4 @@ Fix layout issue - 354 - 2
 Fix bug in navigation - 354 - 3
 Update UI components - 351 - 1
 Update README - 350 - 1
+Update README - 346 - 1
