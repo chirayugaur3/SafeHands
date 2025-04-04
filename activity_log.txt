@@ -86,3 +86,4 @@ Update README - 346 - 1
 Refactor logic - 345 - 1
 Improve performance - 345 - 2
 Update UI components - 345 - 3
+Update UI components - 343 - 1
