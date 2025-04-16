@@ -91,3 +91,4 @@ Add new feature - 342 - 1
 Fix layout issue - 342 - 2
 Update README - 339 - 1
 Fix bug in navigation - 338 - 1
+Add error handling - 331 - 1
