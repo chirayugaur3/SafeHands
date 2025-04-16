@@ -92,3 +92,4 @@ Fix layout issue - 342 - 2
 Update README - 339 - 1
 Fix bug in navigation - 338 - 1
 Add error handling - 331 - 1
+Minor fixes - 331 - 2
