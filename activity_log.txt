@@ -96,3 +96,4 @@ Minor fixes - 331 - 2
 Fix layout issue - 330 - 1
 Fix bug in navigation - 329 - 1
 Add error handling - 325 - 1
+Fix bug in navigation - 324 - 1
