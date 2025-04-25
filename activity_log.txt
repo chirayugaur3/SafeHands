@@ -100,3 +100,4 @@ Fix bug in navigation - 324 - 1
 Code cleanup - 323 - 1
 Fix layout issue - 323 - 2
 Fix layout issue - 322 - 1
+Code cleanup - 322 - 2
