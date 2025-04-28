@@ -102,3 +102,4 @@ Fix layout issue - 323 - 2
 Fix layout issue - 322 - 1
 Code cleanup - 322 - 2
 Fix bug in navigation - 319 - 1
+Refactor logic - 319 - 2
