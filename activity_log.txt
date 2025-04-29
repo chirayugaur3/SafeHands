@@ -105,3 +105,4 @@ Fix bug in navigation - 319 - 1
 Refactor logic - 319 - 2
 Fix layout issue - 318 - 1
 Update UI components - 318 - 2
+Update README - 318 - 3
