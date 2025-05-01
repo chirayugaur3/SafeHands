@@ -106,3 +106,4 @@ Refactor logic - 319 - 2
 Fix layout issue - 318 - 1
 Update UI components - 318 - 2
 Update README - 318 - 3
+Fix layout issue - 316 - 1
