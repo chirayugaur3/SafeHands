@@ -111,3 +111,4 @@ Refactor logic - 313 - 1
 Fix layout issue - 311 - 1
 Add error handling - 311 - 2
 Fix bug in navigation - 311 - 3
+Update UI components - 310 - 1
