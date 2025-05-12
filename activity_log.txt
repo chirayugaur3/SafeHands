@@ -120,3 +120,4 @@ Fix bug in navigation - 308 - 2
 Fix bug in navigation - 306 - 1
 Update README - 306 - 2
 Code cleanup - 305 - 1
+Add error handling - 305 - 2
