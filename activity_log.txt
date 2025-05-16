@@ -124,3 +124,4 @@ Add error handling - 305 - 2
 Improve performance - 305 - 3
 Update README - 301 - 1
 Code cleanup - 301 - 2
+Refactor logic - 301 - 3
