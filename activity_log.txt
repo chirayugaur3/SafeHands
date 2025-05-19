@@ -126,3 +126,4 @@ Update README - 301 - 1
 Code cleanup - 301 - 2
 Refactor logic - 301 - 3
 Add new feature - 300 - 1
+Fix layout issue - 298 - 1
