@@ -129,3 +129,4 @@ Add new feature - 300 - 1
 Fix layout issue - 298 - 1
 Refactor logic - 298 - 2
 Fix layout issue - 297 - 1
+Code cleanup - 297 - 2
