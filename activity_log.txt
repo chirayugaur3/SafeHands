@@ -132,3 +132,4 @@ Fix layout issue - 297 - 1
 Code cleanup - 297 - 2
 Refactor logic - 295 - 1
 Improve performance - 295 - 2
+Add error handling - 295 - 3
