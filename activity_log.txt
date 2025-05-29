@@ -140,3 +140,4 @@ Code cleanup - 290 - 1
 Fix bug in navigation - 290 - 2
 Minor fixes - 289 - 1
 Fix layout issue - 288 - 1
+Fix layout issue - 288 - 2
