@@ -148,3 +148,4 @@ Add new feature - 283 - 1
 Code cleanup - 283 - 2
 Update README - 283 - 3
 Code cleanup - 282 - 1
+Refactor logic - 278 - 1
