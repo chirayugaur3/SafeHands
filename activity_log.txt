@@ -150,3 +150,4 @@ Update README - 283 - 3
 Code cleanup - 282 - 1
 Refactor logic - 278 - 1
 Update README - 278 - 2
+Add error handling - 276 - 1
