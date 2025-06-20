@@ -153,3 +153,4 @@ Update README - 278 - 2
 Add error handling - 276 - 1
 Fix bug in navigation - 270 - 1
 Refactor logic - 269 - 1
+Fix bug in navigation - 266 - 1
