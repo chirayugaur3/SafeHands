@@ -156,3 +156,4 @@ Refactor logic - 269 - 1
 Fix bug in navigation - 266 - 1
 Add new feature - 266 - 2
 Code cleanup - 265 - 1
+Fix layout issue - 265 - 2
