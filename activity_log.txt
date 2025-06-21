@@ -155,3 +155,4 @@ Fix bug in navigation - 270 - 1
 Refactor logic - 269 - 1
 Fix bug in navigation - 266 - 1
 Add new feature - 266 - 2
+Code cleanup - 265 - 1
