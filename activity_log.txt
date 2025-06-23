@@ -160,3 +160,4 @@ Fix layout issue - 265 - 2
 Fix bug in navigation - 265 - 3
 Update UI components - 264 - 1
 Code cleanup - 263 - 1
+Improve performance - 263 - 2
