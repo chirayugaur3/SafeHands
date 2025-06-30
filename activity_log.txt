@@ -170,3 +170,4 @@ Add new feature - 257 - 1
 Add error handling - 257 - 2
 Fix bug in navigation - 257 - 3
 Fix bug in navigation - 256 - 1
+Add error handling - 256 - 2
