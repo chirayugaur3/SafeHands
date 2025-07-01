@@ -172,3 +172,4 @@ Fix bug in navigation - 257 - 3
 Fix bug in navigation - 256 - 1
 Add error handling - 256 - 2
 Add error handling - 255 - 1
+Code cleanup - 255 - 2
