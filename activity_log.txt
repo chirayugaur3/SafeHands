@@ -177,3 +177,4 @@ Minor fixes - 254 - 1
 Add new feature - 254 - 2
 Fix bug in navigation - 254 - 3
 Refactor logic - 252 - 1
+Minor fixes - 252 - 2
