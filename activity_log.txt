@@ -179,3 +179,4 @@ Fix bug in navigation - 254 - 3
 Refactor logic - 252 - 1
 Minor fixes - 252 - 2
 Fix layout issue - 252 - 3
+Fix layout issue - 251 - 1
