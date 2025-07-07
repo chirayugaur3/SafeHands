@@ -181,3 +181,4 @@ Minor fixes - 252 - 2
 Fix layout issue - 252 - 3
 Fix layout issue - 251 - 1
 Fix bug in navigation - 251 - 2
+Update README - 249 - 1
