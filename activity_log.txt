@@ -185,3 +185,4 @@ Update README - 249 - 1
 Update README - 249 - 2
 Minor fixes - 249 - 3
 Fix layout issue - 248 - 1
+Code cleanup - 244 - 1
