@@ -187,3 +187,4 @@ Minor fixes - 249 - 3
 Fix layout issue - 248 - 1
 Code cleanup - 244 - 1
 Add new feature - 244 - 2
+Improve performance - 240 - 1
