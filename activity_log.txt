@@ -189,3 +189,4 @@ Code cleanup - 244 - 1
 Add new feature - 244 - 2
 Improve performance - 240 - 1
 Fix layout issue - 235 - 1
+Minor fixes - 235 - 2
