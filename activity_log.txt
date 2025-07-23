@@ -192,3 +192,4 @@ Fix layout issue - 235 - 1
 Minor fixes - 235 - 2
 Fix layout issue - 234 - 1
 Add new feature - 233 - 1
+Update README - 233 - 2
