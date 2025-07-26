@@ -196,3 +196,4 @@ Update README - 233 - 2
 Update UI components - 233 - 3
 Minor fixes - 231 - 1
 Fix layout issue - 230 - 1
+Refactor logic - 230 - 2
