@@ -204,3 +204,4 @@ Add error handling - 227 - 2
 Code cleanup - 227 - 3
 Update README - 226 - 1
 Improve performance - 226 - 2
+Fix bug in navigation - 224 - 1
