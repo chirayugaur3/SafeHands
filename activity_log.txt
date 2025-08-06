@@ -209,3 +209,4 @@ Minor fixes - 221 - 1
 Improve performance - 221 - 2
 Update UI components - 221 - 3
 Code cleanup - 220 - 1
+Fix bug in navigation - 219 - 1
