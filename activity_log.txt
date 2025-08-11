@@ -216,3 +216,4 @@ Update UI components - 218 - 1
 Minor fixes - 218 - 2
 Update UI components - 215 - 1
 Update README - 214 - 1
+Fix bug in navigation - 214 - 2
