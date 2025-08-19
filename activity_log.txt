@@ -223,3 +223,4 @@ Refactor logic - 211 - 2
 Refactor logic - 211 - 3
 Update UI components - 210 - 1
 Update README - 207 - 1
+Add new feature - 206 - 1
