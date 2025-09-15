@@ -252,3 +252,4 @@ Fix layout issue - 183 - 3
 Update UI components - 181 - 1
 Improve performance - 181 - 2
 Improve performance - 179 - 1
+Minor fixes - 179 - 2
