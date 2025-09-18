@@ -258,3 +258,4 @@ Fix bug in navigation - 178 - 1
 Update UI components - 178 - 2
 Minor fixes - 176 - 1
 Update README - 176 - 2
+Add error handling - 176 - 3
