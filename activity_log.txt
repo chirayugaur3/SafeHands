@@ -260,3 +260,4 @@ Minor fixes - 176 - 1
 Update README - 176 - 2
 Add error handling - 176 - 3
 Fix bug in navigation - 172 - 1
+Code cleanup - 168 - 1
