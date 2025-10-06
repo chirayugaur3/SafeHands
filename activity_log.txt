@@ -269,3 +269,4 @@ Add new feature - 163 - 1
 Update UI components - 161 - 1
 Minor fixes - 161 - 2
 Minor fixes - 161 - 3
+Fix bug in navigation - 158 - 1
