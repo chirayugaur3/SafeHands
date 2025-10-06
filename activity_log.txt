@@ -270,3 +270,4 @@ Update UI components - 161 - 1
 Minor fixes - 161 - 2
 Minor fixes - 161 - 3
 Fix bug in navigation - 158 - 1
+Code cleanup - 158 - 2
