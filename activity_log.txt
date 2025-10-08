@@ -274,3 +274,4 @@ Code cleanup - 158 - 2
 Fix layout issue - 158 - 3
 Fix layout issue - 157 - 1
 Fix layout issue - 157 - 2
+Update UI components - 156 - 1
