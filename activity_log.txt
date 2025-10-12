@@ -276,3 +276,4 @@ Fix layout issue - 157 - 1
 Fix layout issue - 157 - 2
 Update UI components - 156 - 1
 Update README - 152 - 1
+Code cleanup - 152 - 2
