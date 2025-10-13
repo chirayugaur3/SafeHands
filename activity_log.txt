@@ -279,3 +279,4 @@ Update README - 152 - 1
 Code cleanup - 152 - 2
 Add error handling - 151 - 1
 Code cleanup - 151 - 2
+Fix bug in navigation - 151 - 3
