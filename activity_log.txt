@@ -286,3 +286,4 @@ Fix bug in navigation - 148 - 2
 Improve performance - 148 - 3
 Update UI components - 147 - 1
 Add new feature - 144 - 1
+Minor fixes - 144 - 2
