@@ -289,3 +289,4 @@ Add new feature - 144 - 1
 Minor fixes - 144 - 2
 Refactor logic - 144 - 3
 Minor fixes - 142 - 1
+Add error handling - 142 - 2
