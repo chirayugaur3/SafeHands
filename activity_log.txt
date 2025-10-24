@@ -292,3 +292,4 @@ Minor fixes - 142 - 1
 Add error handling - 142 - 2
 Refactor logic - 142 - 3
 Add error handling - 140 - 1
+Update README - 140 - 2
