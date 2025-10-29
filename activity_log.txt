@@ -300,3 +300,4 @@ Refactor logic - 137 - 1
 Improve performance - 137 - 2
 Update README - 136 - 1
 Fix layout issue - 135 - 1
+Fix bug in navigation - 135 - 2
