@@ -302,3 +302,4 @@ Update README - 136 - 1
 Fix layout issue - 135 - 1
 Fix bug in navigation - 135 - 2
 Add new feature - 135 - 3
+Update UI components - 134 - 1
