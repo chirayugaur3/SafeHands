@@ -305,3 +305,4 @@ Add new feature - 135 - 3
 Update UI components - 134 - 1
 Code cleanup - 134 - 2
 Code cleanup - 133 - 1
+Add error handling - 132 - 1
