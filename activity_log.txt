@@ -337,3 +337,4 @@ Add new feature - 101 - 1
 Minor fixes - 101 - 2
 Refactor logic - 100 - 1
 Update README - 100 - 2
+Update UI components - 95 - 1
