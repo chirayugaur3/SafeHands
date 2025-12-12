@@ -341,3 +341,4 @@ Update UI components - 95 - 1
 Update README - 93 - 1
 Update UI components - 92 - 1
 Add error handling - 91 - 1
+Fix bug in navigation - 91 - 2
