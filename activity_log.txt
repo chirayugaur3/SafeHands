@@ -345,3 +345,4 @@ Fix bug in navigation - 91 - 2
 Improve performance - 91 - 3
 Code cleanup - 88 - 1
 Fix layout issue - 87 - 1
+Refactor logic - 87 - 2
