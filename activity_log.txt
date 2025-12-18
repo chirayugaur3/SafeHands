@@ -350,3 +350,4 @@ Add error handling - 86 - 1
 Improve performance - 86 - 2
 Minor fixes - 86 - 3
 Add new feature - 85 - 1
+Update README - 85 - 2
