@@ -352,3 +352,4 @@ Minor fixes - 86 - 3
 Add new feature - 85 - 1
 Update README - 85 - 2
 Add new feature - 81 - 1
+Refactor logic - 81 - 2
