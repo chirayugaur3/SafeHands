@@ -379,3 +379,4 @@ Update UI components - 60 - 2
 Update UI components - 59 - 1
 Refactor logic - 58 - 1
 Fix bug in navigation - 58 - 2
+Refactor logic - 56 - 1
