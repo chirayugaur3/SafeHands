@@ -383,3 +383,4 @@ Refactor logic - 56 - 1
 Update README - 56 - 2
 Fix bug in navigation - 56 - 3
 Update UI components - 55 - 1
+Update UI components - 55 - 2
