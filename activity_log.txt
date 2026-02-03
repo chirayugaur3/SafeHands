@@ -400,3 +400,4 @@ Add error handling - 39 - 2
 Refactor logic - 39 - 3
 Update UI components - 38 - 1
 Add error handling - 38 - 2
+Fix layout issue - 38 - 3
