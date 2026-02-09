@@ -404,3 +404,4 @@ Fix layout issue - 38 - 3
 Update UI components - 35 - 1
 Fix layout issue - 32 - 1
 Refactor logic - 32 - 2
+Minor fixes - 32 - 3
