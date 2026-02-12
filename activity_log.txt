@@ -408,3 +408,4 @@ Minor fixes - 32 - 3
 Add error handling - 31 - 1
 Improve performance - 31 - 2
 Refactor logic - 30 - 1
+Fix bug in navigation - 29 - 1
