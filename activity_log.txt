@@ -413,3 +413,4 @@ Add error handling - 29 - 2
 Code cleanup - 29 - 3
 Add new feature - 28 - 1
 Add new feature - 25 - 1
+Fix bug in navigation - 25 - 2
