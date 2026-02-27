@@ -428,3 +428,4 @@ Improve performance - 17 - 2
 Update UI components - 16 - 1
 Minor fixes - 16 - 2
 Refactor logic - 16 - 3
+Fix layout issue - 14 - 1
