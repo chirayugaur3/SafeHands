@@ -434,3 +434,4 @@ Add new feature - 12 - 1
 Refactor logic - 11 - 1
 Code cleanup - 11 - 2
 Minor fixes - 11 - 3
+Fix bug in navigation - 9 - 1
