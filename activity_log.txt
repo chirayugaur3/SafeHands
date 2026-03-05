@@ -437,3 +437,4 @@ Minor fixes - 11 - 3
 Fix bug in navigation - 9 - 1
 Update UI components - 9 - 2
 Add new feature - 9 - 3
+Add error handling - 8 - 1
