@@ -39,3 +39,6 @@ fastlane/screenshots
 # Playgrounds
 timeline.xctimeline
 playground.xcworkspace
+
+# Environment Variables
+.env
