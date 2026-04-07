@@ -730,7 +730,7 @@ private struct AIInputBar: View {
                     .shadow(
                         color: isFocused.wrappedValue
                             ? Color.softGreen.opacity(0.12)
-                            : Color.warmShadowColor.opacity(0.08),
+                            : Color.warmShadow.opacity(0.08),
                         radius: isFocused.wrappedValue ? 12 : 6,
                         x: 0,
                         y: 4

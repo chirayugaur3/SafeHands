@@ -366,7 +366,7 @@ struct AgeCard: View {
                     )
             )
             .shadow(
-                color: Color.warmShadowColor.opacity(0.12),
+                color: Color.warmShadow.opacity(0.12),
                 radius: 8, x: 0, y: 4
             )
             .scaleEffect(isSelected ? 1.03 : 1.0)
@@ -523,7 +523,7 @@ struct StageCard: View {
                     .stroke(isSelected ? Color.sageGreen : Color.warmDivider, lineWidth: isSelected ? 2 : 1)
             )
             .shadow(
-                color: Color.warmShadowColor.opacity(isSelected ? 0.16 : 0.12),
+                color: Color.warmShadow.opacity(isSelected ? 0.16 : 0.12),
                 radius: isSelected ? 12 : 8, x: 0, y: isSelected ? 6 : 4
             )
             .scaleEffect(isSelected ? 1.02 : 1.0)

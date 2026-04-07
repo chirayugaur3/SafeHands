@@ -388,7 +388,7 @@ private struct TherapyCategoryCard: View {
                     )
             )
             .shadow(
-                color: Color.warmShadowColor.opacity(
+                color: Color.warmShadow.opacity(
                     isSelected ? 0.16 : 0.08
                 ),
                 radius: isSelected ? 12 : 6,

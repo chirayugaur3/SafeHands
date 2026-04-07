@@ -199,7 +199,7 @@ private struct StepDetailScreen1: View {
                     Circle()
                         .fill(Color.white)
                         .frame(width: 36, height: 36)
-                        .shadow(color: Color.warmShadowColor.opacity(0.12), radius: 8, x: 0, y: 4)
+                        .shadow(color: Color.warmShadow.opacity(0.12), radius: 8, x: 0, y: 4)
                     Image(systemName: "chevron.left")
                         .font(.system(size: 14, weight: .semibold))
                         .foregroundColor(Color.deepIndigo)
@@ -290,7 +290,7 @@ private struct StepDetailScreen1: View {
         .frame(maxWidth: .infinity, alignment: .leading)
         .background(Color.white)
         .clipShape(RoundedRectangle(cornerRadius: 18))
-        .shadow(color: Color.warmShadowColor.opacity(0.12), radius: 8, x: 0, y: 4)
+        .shadow(color: Color.warmShadow.opacity(0.12), radius: 8, x: 0, y: 4)
     }
 
     // ── Question data ────────────────────────────────
@@ -442,7 +442,7 @@ private struct StepDetailScreen2: View {
                 .frame(height: 54)
                 .background(Color.white)
                 .clipShape(Capsule())
-                .shadow(color: Color.warmShadowColor.opacity(0.2), radius: 12, x: 0, y: 4)
+                .shadow(color: Color.warmShadow.opacity(0.2), radius: 12, x: 0, y: 4)
             }
             .buttonStyle(.plain)
             .padding(.horizontal, 24)
@@ -600,7 +600,7 @@ private struct StepDetailScreen3: View {
                         .padding(16)
                         .background(Color.white)
                         .clipShape(RoundedRectangle(cornerRadius: 18))
-                        .shadow(color: Color.warmShadowColor.opacity(0.12), radius: 8, x: 0, y: 4)
+                        .shadow(color: Color.warmShadow.opacity(0.12), radius: 8, x: 0, y: 4)
                     }
                     .opacity(isVisible ? 1 : 0)
                     .offset(y: isVisible ? 0 : 16)
@@ -716,6 +716,6 @@ private struct QuestionCard: View {
             }
         )
         .clipShape(RoundedRectangle(cornerRadius: 18))
-        .shadow(color: Color.warmShadowColor.opacity(0.12), radius: 8, x: 0, y: 4)
+        .shadow(color: Color.warmShadow.opacity(0.12), radius: 8, x: 0, y: 4)
     }
 }

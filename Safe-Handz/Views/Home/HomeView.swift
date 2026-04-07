@@ -217,7 +217,7 @@ struct HomeView: View {
         .padding(.vertical, 18)
         .background(Color.white)
         .clipShape(RoundedRectangle(cornerRadius: 18))
-        .shadow(color: Color.warmShadowColor.opacity(0.12), radius: 8, x: 0, y: 4)
+        .shadow(color: Color.warmShadow.opacity(0.12), radius: 8, x: 0, y: 4)
     }
 
     // ─────────────────────────────────────────
@@ -235,7 +235,7 @@ struct HomeView: View {
         .padding(20)
         .background(Color.white)
         .clipShape(RoundedRectangle(cornerRadius: 18))
-        .shadow(color: Color.warmShadowColor.opacity(0.12), radius: 8, x: 0, y: 4)
+        .shadow(color: Color.warmShadow.opacity(0.12), radius: 8, x: 0, y: 4)
     }
 
     private var contextualQuote: String {
@@ -322,7 +322,7 @@ struct HomeView: View {
             .padding(20)
             .background(Color.white)
             .clipShape(RoundedRectangle(cornerRadius: 18))
-            .shadow(color: Color.warmShadowColor.opacity(0.12), radius: 8, x: 0, y: 4)
+            .shadow(color: Color.warmShadow.opacity(0.12), radius: 8, x: 0, y: 4)
 
         } else if let lastLog = viewModel.child?.logs.last {
             // Returning user — last log summary
@@ -363,7 +363,7 @@ struct HomeView: View {
             .padding(16)
             .background(Color.white)
             .clipShape(RoundedRectangle(cornerRadius: 18))
-            .shadow(color: Color.warmShadowColor.opacity(0.12), radius: 8, x: 0, y: 4)
+            .shadow(color: Color.warmShadow.opacity(0.12), radius: 8, x: 0, y: 4)
         }
     }
 
@@ -400,7 +400,7 @@ struct HomeView: View {
                 .padding(24)
                 .background(Color.white)
                 .clipShape(RoundedRectangle(cornerRadius: 18))
-                .shadow(color: Color.warmShadowColor.opacity(0.12), radius: 8, x: 0, y: 4)
+                .shadow(color: Color.warmShadow.opacity(0.12), radius: 8, x: 0, y: 4)
 
             } else {
                 VStack(spacing: 0) {
@@ -437,7 +437,7 @@ struct HomeView: View {
                 }
                 .background(Color.white)
                 .clipShape(RoundedRectangle(cornerRadius: 18))
-                .shadow(color: Color.warmShadowColor.opacity(0.12), radius: 8, x: 0, y: 4)
+                .shadow(color: Color.warmShadow.opacity(0.12), radius: 8, x: 0, y: 4)
             }
         }
     }
@@ -607,7 +607,7 @@ struct HomeGlassNavBar: View {
                     Circle()
                         .fill(Color.white)
                         .frame(width: 38, height: 38)
-                        .shadow(color: Color.warmShadowColor.opacity(0.12), radius: 8, x: 0, y: 4)
+                        .shadow(color: Color.warmShadow.opacity(0.12), radius: 8, x: 0, y: 4)
                     Image(systemName: "bell")
                         .font(.system(size: 15, weight: .medium))
                         .foregroundColor(Color.deepIndigo)
@@ -678,7 +678,7 @@ struct HomeQuickCard: View {
         .frame(maxWidth: .infinity, alignment: .leading)
         .background(Color.white)
         .clipShape(RoundedRectangle(cornerRadius: 18))
-        .shadow(color: Color.warmShadowColor.opacity(0.12), radius: 8, x: 0, y: 4)
+        .shadow(color: Color.warmShadow.opacity(0.12), radius: 8, x: 0, y: 4)
     }
 }
 

@@ -155,7 +155,7 @@ struct HeroTherapistCard: View {
         .buttonStyle(.plain)
         .clipShape(RoundedRectangle(cornerRadius: 18))
         .shadow(
-            color: Color.warmShadowColor.opacity(0.15),
+            color: Color.warmShadow.opacity(0.15),
             radius: 12, x: 0, y: 6
         )
     }
@@ -302,7 +302,7 @@ struct StandardTherapistCard: View {
         .buttonStyle(.plain)
         .clipShape(RoundedRectangle(cornerRadius: 18))
         .shadow(
-            color: Color.warmShadowColor.opacity(0.12),
+            color: Color.warmShadow.opacity(0.12),
             radius: 8, x: 0, y: 4
         )
     }

@@ -29,33 +29,16 @@ extension Color {
 // MARK: - SafeHands Colour Tokens
 
 extension Color {
-    /// #F7F3E8 — every screen background
-    static let warmCream = Color(hex: "#F7F3E8")
-
-    /// #320A5C — all primary text
-    static let deepIndigo = Color(hex: "#320A5C")
-
-    /// #C6855A — ONE primary CTA per screen
-    static let terracotta = Color(hex: "#C6855A")
-
-    /// #B2AC88 — active states, left borders
-    static let sageGreen = Color(hex: "#B2AC88")
-
-    /// #7EBF8E — completed states
-    static let softGreen = Color(hex: "#7EBF8E")
-
-    /// #7A6E62 — supporting copy
-    static let warmBrown = Color(hex: "#7A6E62")
-
-    /// #7A7268 — labels, metadata, hard day mood
-    static let warmGrey = Color(hex: "#7A7268")
-
-    /// #E5DDD4 — all dividers
-    static let warmDivider = Color(hex: "#E5DDD4")
-
-    /// #B5A898 — ALL shadows (never black, never grey)
-    static let warmShadowColor = Color(hex: "#B5A898")
-
-    /// #2D4A3E — logging ceremony screen only
-    static let loggingBackground = Color(hex: "#2D4A3E")
+    static let warmCream = Color(hex: "F7F3E8")
+    static let deepIndigo = Color(hex: "320A5C")
+    static let terracotta = Color(hex: "C6855A")
+    static let sageGreen = Color(hex: "B2AC88")
+    static let softGreen = Color(hex: "7EBF8E")
+    static let warmBrown = Color(hex: "7A6E62")
+    static let warmGrey = Color(hex: "7A7268")
+    static let warmDivider = Color(hex: "E5DDD4")
+    static let warmShadow = Color(hex: "B5A898")
+    
+    // Legacy logging Background
+    static let loggingBackground = Color(hex: "2D4A3E")
 }

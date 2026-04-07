@@ -5,7 +5,7 @@ import SwiftUI
 enum SHTab: String, CaseIterable {
     case home
     case discover
-    case community
+    case learn
     case ai
     case profile
 }
@@ -14,15 +14,21 @@ enum SHTab: String, CaseIterable {
 
 struct ContentView: View {
     @State private var selectedTab: SHTab = .home
-    @AppStorage("onboardingComplete") private var onboardingComplete = false
+    @AppStorage("preOnboardingComplete") var preOnboardingComplete: Bool = false
+    @AppStorage("onboardingComplete") var onboardingComplete: Bool = false
     @State private var aiFromLogging = false
+    
+    // Auth Service is initialized here at the root level
+    @State private var authService = AuthenticationService()
 
     var body: some View {
         Group {
-            if onboardingComplete {
-                mainTabView
-            } else {
+            if !preOnboardingComplete {
+                PreOnboardingCoordinator(authService: authService)
+            } else if !onboardingComplete {
                 OnboardingView()
+            } else {
+                mainTabView
             }
         }
         .onReceive(
@@ -32,6 +38,15 @@ struct ContentView: View {
         ) { _ in
             withAnimation(.easeInOut(duration: 0.5)) {
                 onboardingComplete = true
+            }
+        }
+        .onReceive(
+            NotificationCenter.default.publisher(
+                for: Notification.Name("preOnboardingCompleted")
+            )
+        ) { _ in
+            withAnimation(.easeInOut(duration: 0.5)) {
+                preOnboardingComplete = true
             }
         }
     }
@@ -51,11 +66,8 @@ struct ContentView: View {
                 DiscoverView()
             }
 
-            Tab("community", systemImage: "person.3.fill", value: .community) {
-                Text("Community")
-                    .font(SHFont.serifHeadline(22))
-                    .foregroundStyle(Color.deepIndigo)
-                    .safeHandsBackground()
+            Tab("learn", systemImage: "book.pages.fill", value: .learn) {
+                LearnHubView()
             }
 
             Tab("ai", systemImage: "sparkles", value: .ai) {
@@ -81,8 +93,4 @@ struct ContentView: View {
             }
         }
     }
-}
-
-#Preview {
-    ContentView()
 }

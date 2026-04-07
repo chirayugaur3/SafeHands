@@ -336,7 +336,7 @@ extension TherapistDetailView {
             RoundedRectangle(cornerRadius: 20)
                 .fill(Color.white)
                 .shadow(
-                    color: Color.warmShadowColor.opacity(0.16),
+                    color: Color.warmShadow.opacity(0.16),
                     radius: 16, x: 0, y: 8
                 )
         )
@@ -443,7 +443,7 @@ extension TherapistDetailView {
                 .background(Color.white)
                 .clipShape(RoundedRectangle(cornerRadius: 16))
                 .shadow(
-                    color: Color.warmShadowColor.opacity(0.10),
+                    color: Color.warmShadow.opacity(0.10),
                     radius: 8, x: 0, y: 4
                 )
         }
@@ -642,7 +642,7 @@ extension TherapistDetailView {
                     )
                 )
                 .shadow(
-                    color: Color.warmShadowColor.opacity(0.08),
+                    color: Color.warmShadow.opacity(0.08),
                     radius: 6, x: 0, y: 2
                 )
             }
@@ -692,7 +692,7 @@ private struct InfoChip: View {
         .background(Color.white)
         .clipShape(RoundedRectangle(cornerRadius: 14))
         .shadow(
-            color: Color.warmShadowColor.opacity(0.10),
+            color: Color.warmShadow.opacity(0.10),
             radius: 6, x: 0, y: 3
         )
     }

@@ -281,7 +281,7 @@ private struct DiscoverActionRow: View {
                 RoundedRectangle(cornerRadius: 18)
             )
             .shadow(
-                color: Color.warmShadowColor.opacity(0.12),
+                color: Color.warmShadow.opacity(0.12),
                 radius: 8, x: 0, y: 4
             )
             .scaleEffect(isPressed ? 0.98 : 1.0)

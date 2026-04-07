@@ -376,7 +376,7 @@ extension TherapistListView {
                             .shadow(
                                 color: activeFilter == filter
                                 ? Color.terracotta.opacity(0.25)
-                                : Color.warmShadowColor
+                                : Color.warmShadow
                                     .opacity(0.08),
                                 radius: 6, x: 0, y: 2
                             )

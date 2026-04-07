@@ -38,3 +38,10 @@ enum SHFont {
         .system(size: size, weight: .regular, design: .default)
     }
 }
+
+// Added extensions for new views
+extension SHFont {
+    static func serif(_ size: CGFloat) -> Font {
+        .custom("Fraunces-SemiBold", size: size)
+    }
+}

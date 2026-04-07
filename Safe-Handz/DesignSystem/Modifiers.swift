@@ -18,11 +18,11 @@ extension View {
 
 // MARK: - Card Shadow
 
-/// Every card shadow: warmShadowColor 12% opacity, radius 8, y 4
+/// Every card shadow: warmShadow 12% opacity, radius 8, y 4
 struct CardShadowModifier: ViewModifier {
     func body(content: Content) -> some View {
         content
-            .shadow(color: Color.warmShadowColor.opacity(0.12), radius: 8, x: 0, y: 4)
+            .shadow(color: Color.warmShadow.opacity(0.12), radius: 8, x: 0, y: 4)
     }
 }
 
@@ -93,5 +93,24 @@ struct SectionLabelStyle: ViewModifier {
 extension View {
     func sectionLabel() -> some View {
         modifier(SectionLabelStyle())
+    }
+}
+
+// MARK: - Editorial UI Modifiers
+
+/// Tactile, gorgeous card style that eliminates borders and uses organic shadow depth for the new Editorial Learning Hub
+struct SHSoftCardModifier: ViewModifier {
+    func body(content: Content) -> some View {
+        content
+            .background(Color.white)
+            .clipShape(RoundedRectangle(cornerRadius: 24, style: .continuous))
+            .shadow(color: Color.black.opacity(0.04), radius: 24, x: 0, y: 12)
+            .shadow(color: Color.warmShadow.opacity(0.06), radius: 8, x: 0, y: 4)
+    }
+}
+
+extension View {
+    func shSoftCard() -> some View {
+        modifier(SHSoftCardModifier())
     }
 }

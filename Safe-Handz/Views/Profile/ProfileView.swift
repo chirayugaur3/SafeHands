@@ -8,6 +8,7 @@ struct ProfileView: View {
     @State private var showResetConfirm = false
     @State private var showSignOutConfirm = false
     @AppStorage("onboardingComplete") private var onboardingComplete = false
+    @AppStorage("preOnboardingComplete") private var preOnboardingComplete = false
 
     var body: some View {
         NavigationStack {
@@ -150,17 +151,17 @@ struct ProfileView: View {
             print("Reset error: \(error)")
         }
 
-        // 2. Clear UserDefaults keys
-        let keys = ["parentName", "onboardingComplete"]
-        for key in keys {
-            UserDefaults.standard.removeObject(forKey: key)
-        }
-
-        // 3. Flip AppStorage flag after a brief delay so the alert fully dismisses first
-        DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) {
-            withAnimation(.easeInOut(duration: 0.4)) {
-                onboardingComplete = false
-            }
+        // 2. Clear AppStorage flags and UserDefaults keys
+        UserDefaults.standard.removeObject(forKey: "parentName")
+        
+        // Ensure UserDefaults is explicitly updated
+        UserDefaults.standard.set(false, forKey: "preOnboardingComplete")
+        UserDefaults.standard.set(false, forKey: "onboardingComplete")
+        
+        // 3. Flip AppStorage flags immediately so ContentView picks them up
+        withAnimation(.easeInOut(duration: 0.4)) {
+            preOnboardingComplete = false
+            onboardingComplete = false
         }
     }
 }
